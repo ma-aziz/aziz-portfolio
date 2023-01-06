@@ -140,3 +140,7 @@ main {
 .resume .description {
   color: #757575;
 }
+.cv-btn {
+  margin-top: 50px;
+  text-align: center;
+}
